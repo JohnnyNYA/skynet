@@ -1,0 +1,2 @@
+git clone https://github.com/AiTooltip/uxui-workflow.git
+mkdir -p ~/.claude/skills && cp -R uxui-workflow/uxui-workflow ~/.claude/skills/
